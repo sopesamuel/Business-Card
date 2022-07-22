@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+  background-color: #23252C;
+  font-family: 'inter';
+}
+
+.App {
+  text-align: center;
+  background-color: #F5F5F5 ;
+  height: 660px;
+  width: 317px;
+  margin: auto;
+}
+.App img{
+  height: 260px;
+  width: 317px;
+  display: block;
+}
+.nav-title{
+  line-height: 10px;
+}
+
+.nav-title h2{
+  font-size: 28px;
+}
+.nav-title h3{
+  font-size: 14px;
+  color: #F47D27;
+}
+
+.nav-title p{
+  font-size: 11px;
+  color: #4A4E74;
+}
+
+.btn{
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #D1D5DB;
+  margin-top: 10px;
+  padding: 10px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 900;
+  color: #374151;
+  display: inline-flex;
+  width: 115px;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn2{
+  background-color: #297fe5;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  margin-left: 10px;
+  color: white;
+  font-size: 15px;
+  font-weight: 900;
+  display: inline-flex;
+  width: 115px;
+  align-items: center;
+  justify-content: center;
+}
+
+.LinkedIn-Txt{
+  padding-left: 5px;
+}
+
+.Email-Txt{
+  padding-left: 5px;
+}
+
+.content-text{
+  padding: 20px;
+  margin: -15px;
+}
+.content-text h2{
+color: #2B283A;
+text-align: left;
+padding-left: 10px;
+font-size: 20px;
+}
+
+.content-text p{
+  margin-top: -10px;
+  color:#4A4E74;
+  font-size: 11px;
+  font-weight: 400;
+  text-align: left;
+  padding-left: 10px;
+  line-height: 150%;
+}
+
+.footer-icons{
+  background-color: #D5D4D8;
+  margin-top: -10px;
+  height: 30px;
+  font-size: 30px;
+  color: #918E9B;
+  padding: 20px;
+}
+
+.logo-facebook{
+ padding-right: 10px;
+}
+
+.logo-instagram{
+  padding-right: 10px;
+}
+.logo-github{
+  padding-right: 10px;
+}
